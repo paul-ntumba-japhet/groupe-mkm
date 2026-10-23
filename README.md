@@ -1,3 +1,4 @@
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# groupe-mkm
+Un seul gestionnaire pour plusieurs services
+>>>>>>> bfa4801c4abf135b440de4cff86f00e3d09ba74e
